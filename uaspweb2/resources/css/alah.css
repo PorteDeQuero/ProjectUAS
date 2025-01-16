@@ -1,0 +1,7 @@
+select {
+    background-image: none !important;
+}
+
+div.dt-container select.dt-input {
+    margin-left: 5px !important;
+}
